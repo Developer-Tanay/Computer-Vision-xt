@@ -1,7 +1,13 @@
 # __OPENCV (Computer Vision)__
 
-## Run this in the root directory
+**Create a virtual environment**
 
-```shell
+```
+python -m venv venv
+```
+
+**Install requirements**
+
+```bash
 pip install jupyterlab opencv-python numpy
 ```
